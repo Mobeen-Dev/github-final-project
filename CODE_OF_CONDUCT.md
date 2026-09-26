@@ -1,12 +1,12 @@
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
-##Enforcement Responsibilities
-##Scope
-##Enforcement 
-##Enforcement 
-##Guidelines 
-##Attribution
+## Enforcement Responsibilities
+## Scope
+## Enforcement 
+## Enforcement 
+## Guidelines 
+## Attribution
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics,
